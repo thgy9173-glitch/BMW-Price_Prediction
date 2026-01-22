@@ -8,7 +8,7 @@ BMW 중고차량 가격 예측 머신러닝 프로젝트
 0-1. 언어: Python
 0-2. 환경: Google Colab
 0-3. 라이브러리: pandas, numpy, scikit-learn, matplotlib, seaborn
-0-4. 모델: Linear Regression, Random Forest, XGBoost
+0-4. 모델: Linear Regression, Random Forest, GradientBoosting
 
 # 주요내용
 1-1. 데이터수집: BMW 중고차량 데이터(주행거리, 연식, 모델, 엔진크기 등 9개 변수)
